@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalrD1.props" />
+</Project>
